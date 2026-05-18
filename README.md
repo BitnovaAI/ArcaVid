@@ -21,8 +21,9 @@ It is a complete **AI-powered content factory** that helps creators and brands:
 - Idea Generator & Prompt Improver
 - Research AI & Transcript AI
 - *And MANY MORE*
+
 **ArcaFlow — Visual Automation Builder**
-- No-code workflow builder (like Zapier + n8n for creators)
+- No-code workflow builder 
 - Create powerful automations: "YouTube → Shorts → Cross-post to Instagram & X"
 - Manual Drag & Drop + AI Chatbot mode to build flows
 

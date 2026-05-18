@@ -38,7 +38,7 @@ It is a complete **AI-powered content factory** that helps creators and brands:
 
 ### Mission
 
-*Built Different. Built Real.*
+**Built Different. Built Real.**
 
 We are building the ultimate toolkit for serious creators, businesses who want to move beyond manual work and small-scale automation.
 
